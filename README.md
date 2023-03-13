@@ -1,4 +1,4 @@
-# :seedling: MixCultivation 
+# :seedling: MaxMix
 Tool to easily select matching vegetables for mixed bed cultivation
 
 ## Motivation
