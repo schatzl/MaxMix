@@ -1,5 +1,5 @@
 # :seedling: MixCultivation 
-Tool to easily select matching vegetables for mixed beet cultivation
+Tool to easily select matching vegetables for mixed bed cultivation
 
 ## Motivation
 
@@ -33,3 +33,5 @@ Advanced features will be
 The final application will contain
 - a graphical representation of the orchard
 - drag and drop functionality for creating a patch including suggestions
+
+© 2023, SCHATZL
